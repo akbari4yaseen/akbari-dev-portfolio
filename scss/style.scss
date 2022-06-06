@@ -1,0 +1,18 @@
+@use 'custom';
+
+// Import the component
+@use'components/animations';
+@use'components/buttons';
+@use'components/mixin.scss';
+@use'components/typography';
+
+
+// Import the sections 
+@use'sections/navbar';
+@use'sections/into-section';
+@use'sections/services';
+@use'sections/hiring';
+@use'sections/faq';
+@use'sections/portfolio';
+@use'sections/get-started';
+@use'sections/footer';
